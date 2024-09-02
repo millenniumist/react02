@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: #23272F;
+    color: white;
+    padding: 2rem;
+}
+
+.ctn {
+    background-color: #343A46;
+    padding: 2rem;
+    border-radius: 1rem;
+    font-size: 24px;
+}
+.ul-header {
+    font-size: 28px;
+    font-weight: 700;
+}
